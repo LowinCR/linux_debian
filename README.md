@@ -2,4 +2,4 @@
 Te ayudamos con la instalación de linux_debian 
 
 hola mundo
-![img](imagenes_debian/Presentaci%C3%B3n1.jpg)
+![img](imagenes_debian/1.png)

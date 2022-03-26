@@ -60,6 +60,6 @@ Te ayudamos con la instalación de linux_debian
 
 ![img](imagenes_debian/imagen14.PNG)
 
-10.6. por ultimo en la red, el adaptador 1 debe estar conectado al adaptado puente.
+10.6. por ultimo en la red, el adaptador 2 se habilita y debe estar conectado a la red interna.
 
 ![img](imagenes_debian/imagen15.PNG)

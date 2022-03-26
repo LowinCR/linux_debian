@@ -63,3 +63,5 @@ Te ayudamos con la instalación de linux_debian
 10.6. por ultimo en la red, el adaptador 2 se habilita y debe estar conectado a la red interna.
 
 ![img](imagenes_debian/imagen15.PNG)
+
+11.

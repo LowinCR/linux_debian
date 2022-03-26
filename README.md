@@ -17,11 +17,11 @@ Te ayudamos con la instalación de linux_debian
 
 ![img](imagenes_debian/Imagen4.png)
 
-
+5. Después de eso, elija VDI "Imagen de disco de VirtualBox".
 
 ![img](imagenes_debian/Imagen5.png)
 
-6. Luego elija asignado dinámicamente luego elige Siguiente.
+6. Luego elija "asignado dinámicamente" luego elige Siguiente.
 
 ![img](imagenes_debian/Imagen6.png)
 
@@ -30,20 +30,36 @@ Te ayudamos con la instalación de linux_debian
 
 ![img](imagenes_debian/Imagen7.png)
 
-
+8. Seleccionamos el disco que contiene el sistema operativo que desea instalar.
 
 ![img](imagenes_debian/imagen8.PNG)
 
+9. Después de terminar de crear la máquina virtual, debemos hacer un pequeño ajuste. Seleccione la máquina virtual que creamos anteriormente (debian) y luego selecciónela Configuraciones para ingresar al menú de configuración.
+
 ![img](imagenes_debian/imagen9.PNG)
+
+10. verificamos que la configuracion de la maquina virtual cumpla con lo siguiente:
+
+10.1. La memoria base del sistema sea 1024 MB.
 
 ![img](imagenes_debian/imagen10.PNG)
 
+10.2. El procesador este en 4.
+
 ![img](imagenes_debian/imagen11.PNG)
+
+10.3. En la aceleraciós el hardware de virtualizacion de habilitar las dos ópciones.
 
 ![img](imagenes_debian/imagen12.PNG)
 
+10.4. En la pantalla, la memoria de video debe estar en 128 MB.
+
 ![img](imagenes_debian/imagen13.PNG)
 
+10.5. En almacenamiento, el controlador IDE debe contener el disco.
+
 ![img](imagenes_debian/imagen14.PNG)
+
+10.6. por ultimo en la red, el adaptador 1 debe estar conectado al adaptado puente.
 
 ![img](imagenes_debian/imagen15.PNG)

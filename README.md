@@ -18,10 +18,32 @@ Te ayudamos con la instalación de linux_debian
 ![img](imagenes_debian/Imagen4.png)
 
 
+
 ![img](imagenes_debian/Imagen5.png)
+
+6. Luego elija asignado dinámicamente luego elige Siguiente.
 
 ![img](imagenes_debian/Imagen6.png)
 
+
+7. Para el tamaño del disco duro virtual utilizado, 10GB más que suficiente Después de eso elige Crear.
+
 ![img](imagenes_debian/Imagen7.png)
 
+
+
 ![img](imagenes_debian/imagen8.PNG)
+
+![img](imagenes_debian/imagen9.PNG)
+
+![img](imagenes_debian/imagen10.PNG)
+
+![img](imagenes_debian/imagen11.PNG)
+
+![img](imagenes_debian/imagen12.PNG)
+
+![img](imagenes_debian/imagen13.PNG)
+
+![img](imagenes_debian/imagen14.PNG)
+
+![img](imagenes_debian/imagen15.PNG)

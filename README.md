@@ -64,30 +64,74 @@ Te ayudamos con la instalación de linux_debian
 
 ![img](imagenes_debian/imagen15.PNG)
 
-11.
+11. A continuación se muestra la apariencia inicial de la instalación de Debian 10. Seleccione Instalalo.
 
 ![img](imagenes_debian/imagen16.PNG)
 
 ![img](imagenes_debian/imagen17.PNG)
 
+12. Toca ingresar el nombre de la maquina.
+
 ![img](imagenes_debian/imagen18.PNG)
+
+13. Para el dominio debe escribir un nombre a su gusto pero este debe terminar en .com, .net, .edu, o .org.
 
 ![img](imagenes_debian/imagen19.PNG)
 
+14. Ingresar una contraseña para el superusuario. 
+
 ![img](imagenes_debian/imagen20.PNG)
+
+15. Vuelve a digitar la contraseña para mas seguridad.
 
 ![img](imagenes_debian/imagen21.PNG)
 
+16. En la etapa de partición del disco duro, seleccione Guiado: use todo el disco.
+
 ![img](imagenes_debian/imagen22.PNG)
+
+17. Seleccione el disco duro que desea particionar más tarde Entrar.
 
 ![img](imagenes_debian/imagen23.PNG)
 
+
 ![img](imagenes_debian/imagen24.PNG)
+
+18. Luego elige Finalice el particionamiento y escriba los cambios en el disco.
 
 ![img](imagenes_debian/imagen25.PNG)
 
+19. Si aparece una pantalla como esta, seleccione Si.
+
 ![img](imagenes_debian/imagen26.PNG)
+
+20. En este paso, seleccione No.
 
 ![img](imagenes_debian/imagen27.PNG)
 
+21. En este paso, seleccione No.
+
 ![img](imagenes_debian/imagen28.PNG)
+
+22. En este paso, seleccione No.
+
+![img](imagenes_debian/imagen29.PNG)
+
+
+![img](imagenes_debian/imagen30.PNG)
+
+23.   Seleccionar Si para la instalación del cargador de arranque GRUP.
+
+![img](imagenes_debian/imagen31.PNG)
+
+24. Seleccione / dev / sda ... (el nombre de su disco duro que se parece más o menos a la imagen de abajo) y luego presione Entrar.
+
+![img](imagenes_debian/imagen32.PNG)
+
+25.  finalmente seleccione Continuar.
+
+![img](imagenes_debian/imagen33.PNG)
+
+## LISTO!.
+
+![img](imagenes_debian/imagen34.PNG)
